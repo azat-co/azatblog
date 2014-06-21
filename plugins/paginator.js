@@ -98,7 +98,6 @@ module.exports = function(env, callback) {
     rv = {
       pages: {}
     };
-    console.log('***', pages);
     for (_k = 0, _len1 = pages.length; _k < _len1; _k++) {
       page = pages[_k];
       rv.pages["" + page.pageNum + ".page"] = page;

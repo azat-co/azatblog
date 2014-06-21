@@ -25,7 +25,6 @@ module.exports = (env, callback) ->
     else
       articles = contents[options.articles]._.directories.map (item) -> item.index
     articles.sort (a, b) -> b.date - a.date
-
     return articles
 
   class PaginatorPage extends env.plugins.Page
@@ -79,7 +78,6 @@ module.exports = (env, callback) ->
     # create the object that will be merged with the content tree (contents)
     # do _not_ modify the tree directly inside a generator, consider it read-only
     rv = {pages:{}}
-    console.log '***', pages
     for page in pages
       rv.pages["#{ page.pageNum }.page"] = page # file extension is arbitrary
     rv['index.page'] = pages[0] # alias for first page
