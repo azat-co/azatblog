@@ -16,4 +16,4 @@ In order for restaurants to stay in business they need to generate profits and c
 
 Therefore, when we vote with our dollars, we shouldn't just choose cheaper places. If we continue doing it, organic good food will never become mainstream and cheap. Same thing happened with high-speed airlines: [Concorde](http://en.wikipedia.org/wiki/Concorde) became extinct because passengers preferred cheaper but slower flying options.
 
-What if it's too expensive to eat at a good place like [Laughing Plant](http://laughingplanetcafe.com)? Just cook at home! :-)
+What if it's too expensive to eat at a good place like [Laughing Planet](http://laughingplanetcafe.com)? Just cook at home! :-)
