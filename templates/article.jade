@@ -20,7 +20,8 @@ block content
 
 block prepend footer
   .social
-    a(href="https://twitter.com/intent/tweet?button_hashtag=livingthedream&text=#{page.title}%20http%3A%2F%2Fazat.co#{page.url}%20by%20%40azat_co", data-related="azat_co")
+    - var pageTitle = encodeURIComponent(page.title)
+    a(href="https://twitter.com/intent/tweet?button_hashtag=livingthedream&text=#{pageTitle}%20http%3A%2F%2Fazat.co#{page.url}%20by%20%40azat_co", data-related="azat_co")
       i.fa.fa-twitter
     script.
       !function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+'://platform.twitter.com/widgets.js';fjs.parentNode.insertBefore(js,fjs);}}(document, 'script', 'twitter-wjs');
