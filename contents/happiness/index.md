@@ -16,3 +16,5 @@ Lower expectations bring more satisfaction, right? Once I realized that we weren
 * Forget about this illusive happiness. In the never-ending pursuit of it, you'll remain miserable.
 * Stop thinking that you're supposed to be happy all the time. Banish the entitled to feel good or thoughts on how to achieve it.
 * Just live in the moment, survive and be productive, instead of worrying about illusive feeling.
+
+Stop pursuing happiness; search meaning in your life instead.
