@@ -21,7 +21,7 @@ block content
 block prepend footer
   .social
     - var pageTitle = encodeURIComponent(page.title)
-    a(href="https://twitter.com/share" class="twitter-share-button" data-via="azat_co") Tweet
+    // a(href="https://twitter.com/share" class="twitter-share-button" data-via="azat_co") Tweet
     a(href="https://twitter.com/intent/tweet?button_hashtag=livingthedream&text=#{pageTitle}%20http%3A%2F%2Fazat.co#{page.url}%20by%20%40azat_co", data-related="azat_co")
       i.fa.fa-twitter
     script.
