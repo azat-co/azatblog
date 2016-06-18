@@ -1,7 +1,7 @@
 ---
 title: PaleoFX 2016
 author: azat
-date: 2016-07-04 11:00
+date: 2016-06-04 11:00
 template: article.jade
 ---
 
