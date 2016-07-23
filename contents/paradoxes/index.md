@@ -15,6 +15,8 @@ I've noticed that there are a lot of paradoxes when it comes to attitudes and li
 * Changing vs. adapting: Sometimes it's good to change your provider, environment, equipment, etc., while other times, you just have to suck it up and not worry about mundane things which might annoy you otherwise.
 * Work on weekends and have no vacations vs. taking time off
 * Stay in one place vs. living a digital nomad life: Staying in one place are more comfortable and allows to establish connections and network (it's who you know, not what you know most of the times even in tech); while traveling allows to expand horizon, and explore new opportunities.
+* Being analytics vs. artistic
+* Being good with tech&numbers vs. being good with people
 
 The best thing is to be doing both of these extremes, but they are extremes for a reason. How to be humble yet confident? Or how to stay and build connections and reputation in one area but bring new ideas from other spheres of life?
 
