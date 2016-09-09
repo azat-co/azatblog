@@ -7,7 +7,7 @@ template: article.jade
 
 ![Harvard Coop](harvard-coop.jpg)
 
-Despite voice and video communication becoming cheap, ubiquitous and more popular (VoIP, Skype, FaceTime, WhatsApp, Viber, etc.), this increase create only more and more text communication. Text is so inferior in term of conveying emotions, intonation, and body language to video or even voice. Right? Then why don't drop it or at least use less and call, FaceTime, Skype each other? Asynchronoucity is one thing, but you can do voice and video asynchronously too, just record and send it.
+Despite voice and video communication becoming cheap, ubiquitous and more popular (VoIP, Skype, FaceTime, WhatsApp, Viber, etc.), this increase create only more and more text communication. Text is so inferior in term of conveying emotions, intonation, and body language to video or even voice. Right? Then why don't drop it or at least use less and call, FaceTime, Skype each other? Asynchronicity is one thing, but you can do voice and video asynchronously too, just record and send it.
 
 **I think text is awesome and will become even more popular exactly because of the thing than makes it terrible**, that's desensitization—stripping emotions, body language, character, accent, mood, and other things humans grasp on conscious and subconscious levels. In other words, the same things which are beneficial for better understanding could also be distractions. What?
 
