@@ -5,7 +5,7 @@ date: 2016-10-13 03:00
 template: article.jade
 ---
 
-![Weekend Office](weekend-office.jpg)
+![Weekend Office](https://cdn-images-1.medium.com/proxy/1*Tdu6SILy42fjbx5pO3YgVw.jpeg)
 
 Weekends are too long... waaaay too loooong. Two full days! We should switch to 6-day workweeks. 
 
