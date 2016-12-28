@@ -19,6 +19,7 @@ Just the audio books for 2016 amount to over 400 hours of content. That's 50 day
 
 * Books are not created equal: So books are junk or should be 50 not 350 pages because they don't have than much substance. Most modern non-fiction books are[ junk](http://azat.co/blog/ego-is-the-friend).
 * Listening on 1.5x and speed reading rocks.
+* I really don't like printed books. Kindle is a way to go!
 * Successful people have different rules, habits, approaches which often contradict other successful people. Thus, don't listen to their advices. It's not what brought them success. (*Icons and Idiots* by Bob Lutz).
 * History and biographies (especially auto biographies) tend to be the better books.
 * Eat my frogs first to get things done.
