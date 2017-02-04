@@ -2,7 +2,7 @@ Idiocy of Open Offices
 
 I've been doing software engineering for over 15 years and always I had to sit in an open office space. Sometimes like at FDIC or NIH, I had a short wall to form a noise barrier. Sort of a cubicle. The walls are only shoulder length so they are galaxy away from being sound proof. Especially when the desk is in the hallway like mine was at FDIC, or near a chatty NIH colleague who spent hours everyday talking with someone on the phone in loud Cantonese. Argh. Human voice is very distracting even when you don't understand it.
 
-However, that set up is luxury compared to the idiocy of open offices practiced by startup and large corporations on the West Coast. There are rows upon rows of narrow tables with 50 or 100+ people in giant rooms. Tables to tables. Rows and rows. This is the 21st analog of an industrial age factory. 
+However, that set up is luxury compared to the idiocy of open offices practiced by startup and large corporations on the West Coast. There are rows upon rows of narrow tables with 50 or 100+ people in giant rooms. Tables to tables. Rows and rows. This is a 21st analog of an industrial age factory. 
 
 But in this information age, the metrics are not tangible goods. They are harder to measure, and this what fools senior leadership, office designers, founders and CEOs/COOs. *Activity is not results.* Do they put everyone in the open to reduce slacking because they can't effectively measure results? (Slack and IM are constant distractions too but that's different [story](http://azat.co/blog/flow). At least you can turn them off!)
 
