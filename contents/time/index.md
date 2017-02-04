@@ -1,4 +1,9 @@
-# How to Find Time: Stop Finding and Start Creating It
+---
+title: "How to Find Time: Stop Finding and Start Creating It"
+author: azat
+date: 2017-02-04 13:00
+template: article.jade
+---
 
 When people hear that I published 14 books and several online course while speaking at 17 conferences in 2016 and working full time at Capital One on hands-on projects, they ask one question: "How do you find time?". Simple answer is I don't.
 
