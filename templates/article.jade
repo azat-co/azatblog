@@ -8,6 +8,8 @@ block prepend title
   | #{ page.title + " - "}
 
 block header
+  div.nav
+    a(href=contents.index.url) « Home
   include author
   h1= page.title
   p.author
