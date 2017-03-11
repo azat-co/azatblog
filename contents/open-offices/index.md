@@ -5,6 +5,8 @@ date: 2017-03-11 11:55
 template: article.jade
 ---
 
+![](office.jpg)
+
 I've been doing software engineering for over 15 years now, and I always had to sit in an open office space. Sometimes like at FDIC or NIH, I had a short wall to form a noise barrier- sort of a cubicle. The walls are only shoulder length so they are still a galaxy away from being sound proof. Especially when the desk is in the hallway like how mine was at FDIC, or near a chatty NIH colleague who spends hours everyday talking with someone on the phone in loud Cantonese. Argh. Human voice is very distracting even when you don't understand it.
 
 However, that set up is luxury compared to the idiocy of open offices practiced by startup and large corporations on the West Coast. There are rows upon rows of narrow tables with 50 or 100+ people in giant rooms. Tables to tables. Rows and rows. This is a 21st analog of an industrial age factory.
