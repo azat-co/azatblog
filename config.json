@@ -1,0 +1,29 @@
+{
+  "locals": {
+    "url": "http://azat.co",
+    "name": "Living The Dream",
+    "owner": "Azat",
+    "description": "Azat's personal weblog"
+  },
+  "plugins": [
+    "./plugins/paginator.coffee"
+  ],
+  "require": {
+    "moment": "moment",
+    "_": "underscore",
+    "typogr": "typogr"
+  },
+  "jade": {
+    "pretty": true
+  },
+  "markdown": {
+    "smartLists": true,
+    "smartypants": true
+  },
+  "paginator": {
+    "perPage": 10
+  },
+  "output": "../azat.co/3.0/blog",
+  "baseUrl": "/blog"
+
+}
