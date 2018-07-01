@@ -15,7 +15,7 @@ Let me give some examples of stupid thing that I *generally* avoid doing and som
 1. Use activities which do not require focus like folding laundry, washing dishes or writing HTML to listen to audio books and good podcasts. That's how I was able to [consume over 200 books in the last three years](http://azat.co/blog/200-books).
 1. Avoid reading Facebook timeline or looking at Instagram news feed. Only post, don't consume.
 1. Avoid checking Twitter feed and when you do only subscribe to a handful of people, no more than 200 people and look into "In case you missed it"
-1. Watch movie trailers instead of full movies. I only watch movies trailers in planes that's enough to see all the good scenes and in 80% of the cases understand the plot... but even that makes me want to puke either because modern movies are so brain-dead or full of loser-oriented propaganda (e.g., Hangover)
+1. Watch movie traiglers instead of full movies. I only watch movies trailers in planes that's enough to see all the good scenes and in 80% of the cases understand the plot... but even that makes me want to puke either because modern movies are so brain-dead or full of loser-oriented propaganda (e.g., Hangover)
 1. Pretend TV and cable do not exist and skip commercials by getting Netflix or Amazon Prime if you want some dumb entertainment
 1. Ignore surveys or providing feedback beyond stars or thumbs on hotels, flights, books, apps, services
 1. Avoid writing reviews unless I really want for my own notes/thinking as I did with [Managing Humans](https://webapplog.com/managing-humans-summary/) or [Antifragile](http://azat.co/blog/barbell)
