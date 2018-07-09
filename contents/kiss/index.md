@@ -5,7 +5,6 @@ date: 2018-07-09 9:48
 template: article.jade
 ---
 
-![](DeathtoStock_ModernWorkshop-04.jpg)
 
 I truly believe that human brains didn't evolve to process complex data. Human conscious mind can only hold three, maybe five, seven max for some geniuses, items at a time. Because of that, I have a very optimistic belief when I'm faced with something complex and overwhelming: nothing complex is possible to build or comprehend. It's optimistic because I know that everything can be broken down into small components.
 
