@@ -5,6 +5,7 @@ date: 2019-08-11 10:58
 template: article.jade
 ---
 
+![](hec-paris.jpg)
 
 Two months ago, I applied and was accepted to a master's program at a prestigious business school (ranked #2), HEC Paris. The degree is title *Master of Science in Innovation and Entrepreneurship* (MSIE). It has 10 normal courses, 10 practical project-based courses and one large team project. The master's program lasts about one year and a half. Thus the program ends in 2020. However the graduation will be in 2021, because HEC has only one graduation ceremony which is held in its beautiful Paris campus.
 
