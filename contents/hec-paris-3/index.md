@@ -5,7 +5,9 @@ date: 2019-10-18 5:50
 template: article.jade
 ---
 
-It's time to write a new blog post about my experience in the HEC Paris Master of Science program. I've taken two new courses: Business strategy and Strategic Management of Innovation. They were somewhat related which was good for building a broad knowledge, because several concepts and topics were used and discussed from different angles in both courses. Let me first tell me about the Business Strategy course.
+It's time to write a new blog post about my experience in the HEC Paris Master of Science program. I've taken two new courses: Business strategy and Strategic Management of Innovation. They were somewhat related which was good for building a broad knowledge, because several concepts and topics were used and discussed from different angles in both courses. When I was a schoolboy, I liked strategy games like chess, Civilization and Command & Conquer. I had to balance building roads and factories with investment in defense and military troops. As with these games, in business it's all about the strategy. 
+
+Let me first tell me about the Business Strategy course.
  
 ## Business Strategy
 
