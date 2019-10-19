@@ -5,7 +5,7 @@ date: 2019-09-08 11:27
 template: article.jade
 ---
 
-It's already been two months since I was [accepted into and joined the MSIE program at HEC Paris (Master of Science in Innovation and Entrepreneurship)](http://azat.co/blog/hec-paris). Right away, there were two courses that I needed to pass within a month of September 2019. Luckily, there was a summer break in August. So the deadlines for the final exams were extended one month (into the second month of the program). The first two courses were Entrepreneurial Strategy and Boosting Creativity. Let me share a little bit about the courses and the final exams. 
+It's already been two months since I was [accepted into and joined the MSIE program at HEC Paris (Master of Science in Innovation and Entrepreneurship)](http://azat.co/blog/hec-paris). Right away, there were two courses that I needed to pass within a month of July 2019. Luckily, there was a summer break in August. So the deadlines for the final exams were extended one month (into the second month of the program). The first two courses were Entrepreneurial Strategy and Boosting Creativity. Let me share a little bit about the courses and the final exams. 
 
 ## Entrepreneurial Strategy
 
