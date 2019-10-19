@@ -1,5 +1,5 @@
 ---
-title: "My HEC Paris Journey, Part III"
+title: "My HEC Paris Journey, Part III: It's All About Strategy"
 author: azat
 date: 2019-10-18 5:50
 template: article.jade
