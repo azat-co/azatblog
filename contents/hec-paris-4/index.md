@@ -32,7 +32,7 @@ The main takeaway of this course could be summed up as **you don't have to reinv
 
 ## HEC Paris Entrepreneurs Panel and Alumni Gathering
 
-I visited a live event in San Francisco, organized by the executive HEC Paris organization. They brought Executive MBA students from Europe (HEC EMBA Entrepreneurship Major Class of 2020), and also they organized an entrepreneurship panel of speakers: Danny Hamadi, Sheryle Bolton, and Carlos Diaz. The event was in an old building next to the famous Fairmont Hotel, where typically USA presidents stay when they visit San Francisco.
+I visited a live event in San Francisco, organized by the executive HEC Paris organization. They brought Executive MBA students from Europe (HEC EMBA Entrepreneurship Major Class of 2020), and also they organized an entrepreneurship panel of speakers: Danny Hamady, Sheryle Bolton, and Carlos Diaz. The event was in an old building next to the famous Fairmont Hotel, where typically USA presidents stay when they visit San Francisco.
  
  ![](IMG_0266.jpeg)
  
