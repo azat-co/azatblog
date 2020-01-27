@@ -17,6 +17,6 @@ I wrote before about how [being on a paleo lifestyle is like having superpowers]
 * Our gut bacteria has more DNA material than we: [Dr. Perlmutter](http://amzn.to/1VDS2uC) gave a great presentation reinforcing the importance of our gut biome. One of the analogies stuck with me: we uploaded our DNA/genes to the cloud which is our gut bacteria.
 * Lack of sleep is aging and killing you faster: Just one night of sleep deprivation increases aging 10-15 years (temporarily) and decreases cognitive functions.
 * It's harder to legally sell raw milk than marijuana (in some cases).
-* [A lot of science is not reliable](https://www.instagram.com/p/BF_4shkiXN9/?taken-by=azat_co), because studies to replicate findings and peer reviews are disincentivized.
+* [A lot of science is not reliable](https://www.instagram.com/p/BF_4shkiXN9/?taken-by=azatmardan), because studies to replicate findings and peer reviews are disincentivized.
 
 Overall, it was a great event to reinforce familiar, and learn new things about paleo lifestyle. I also got a lot of contacts for paleo-friendly web stores, products and services which will make my life on the paleo lifestyle even easier than before!
