@@ -5,7 +5,7 @@ date: 2020-03-29 2:41
 template: article.jade
 ---
 
-Time flies. I'm already about two thirds into the MSc Innovation and Entrepreneurship program at HEC Paris. Last post I wrote was [My HEC Paris Journey, Part IV: Organize and Incentivize](http://azat.co/blog/hec-paris-4/). From the previous post, I've taken these seven courses: 
+Time flies. I'm already about two-thirds into the MSc Innovation and Entrepreneurship program at HEC Paris. The previous post I wrote was [My HEC Paris Journey, Part IV: Organize and Incentivize](http://azat.co/blog/hec-paris-4/). From the time I published it, I've taken these seven courses: 
 
 1. *Design Thinking*, 
 2. *Social Entrepreneurship & Changemaking*, 
