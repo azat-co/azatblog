@@ -9,12 +9,16 @@ block prepend title
 
 block header
   div.nav
-    a(href=contents.index.url) « Home
+    a(href="http://azat.co") «« Azat's Home
+    | &nbsp;
+    a(href=contents.index.url) « Blog Home
   include author
   h1= page.title
   p.author
     | #{ "Written by " }
     mixin author(page.metadata.author)
+    | ,&nbsp;
+    span= moment.utc(page.date).format('MMMM DD, YYYY')
 
 block content
   article.article
@@ -29,4 +33,6 @@ block prepend footer
     script.
       !function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+'://platform.twitter.com/widgets.js';fjs.parentNode.insertBefore(js,fjs);}}(document, 'script', 'twitter-wjs');
   div.nav
-    a(href=contents.index.url) « Home
+    a(href="http://azat.co") «« Azat's Home
+    | &nbsp;
+    a(href=contents.index.url) « Blog Home
