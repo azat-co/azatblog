@@ -8,6 +8,8 @@ template: article.jade
 
 In our day and age, learning is more important than ever because things change so rapidly. I learned a taught a lot of things during my career which led me to discover that the best and the most effective learning method is to use MMAT: Motivation, Methodology, Action and Time. 
 
+<span class="more"></span>
+
 Motivation is number one. It's the answer to a "why?" question. Without it, we won't do anything else. People who constantly remind themselves of their WHYs are more motivated and can overcome any other difficulties like finding the best methodology. 
 
 A good methodology (or learning structure and material) is important because without a good strategy and know-how we will drown in a sea of ubiquitous information. We simply will never accomplish our learning goals due to analysis paralysis. And yes, sometimes it take a lot of time to find the best methodology. Don't get caught up in never ending search. Perfect is the enemy of done so just pick something good enough and stick with it for a while.

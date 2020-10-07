@@ -7,6 +7,9 @@ template: article.jade
 
 In English, to wish someone a nice and tasty meal is said with "enjoy your meal". I never liked this phrase because it sounds like a command—enjoy! And if you don't obey my command then there will be repercussions. Of course, it's silly to think of this phrase this way but still the "enjoy your meal" phrase sounds too harsh and not elegant. Maybe people try to remind each other that they should enjoy their food instead of gulping fast food on the go or chowing down a salad while browsing Facebook and answering emails?
 
+<span class="more"></span>
+
+
 Maybe that's why a lot of English-speaking Americans prefer the French "bon appétit". It literally means good appetite but implies I wish you a nice appetite. I use it sometimes but if I think about it more then why would I want to wish someone a good appetite? Maybe they are on a diet of some sort and actually try to eat less, not more? Maybe I should wish them that they have a less of an appetite?
 
 The Russian phrase "приятного аппетита" just mimics the French phrase so nothings new here. French and Russian cultures often share a lot of similarities.
