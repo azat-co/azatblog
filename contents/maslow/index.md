@@ -8,6 +8,8 @@ template: article.jade
 
 Many of you know Maslow's pyramid of needs. Actually, Maslow's never came up with a pyramid. He had a ladder. Other people took his ladder and created a pyramid that is now used in management books. 
 
+<span class="more"></span>
+
 The gist is that the pyramid consists of five needs (from bottom to top): physiological (bottom), safety, love and belonging, esteem, and self-actualization (top). The pyramid says a person needs to fulfill the bottom level first before attempting to fulfill the higher levels. For example, a person who is not safe or who is not fed would not pursue his/her passion nor higher purpose (self-actualization). This theory is neat and widely know and accepted. Even famous lifestyle guru Tony Robbins uses this pyramid in his seminars. The problem is that this pyramid is wrong.
 
 The Maslow's pyramid is wrong because it says a person needs to fulfill the bottom level first before attempting to fulfill the higher levels. All of you know a starting artist trying to make great art. Or a musician who can't provide for his family (or even provide a safe place or good food for himself) but writes songs out of esteem (self-respect) and self-actualization. Then, there is military people who risk their lives (safety) and undergo tremendous lack in physiological needs (water, food) during times of war to achieve higher self-actualization, esteem and to protect loved ones and their society, city or country. These examples show that the pyramid is wrong. But don't despair. I came up with a better system. 

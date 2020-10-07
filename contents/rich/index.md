@@ -5,7 +5,11 @@ date: 2020-10-7 16:00
 template: article.jade
 ---
 
-Rich people can and do risk more than ordinary people. And they do so intentionally. This puts them at a disadvantage. Ironically, these risks and dangers are rarely experienced by middle class or poor people, because these risky activities require expensive equipment, machines or gear. For example, the following activities present increased dangers:
+Rich people can and do risk more than ordinary people. And they do so intentionally. This puts them at a disadvantage. Ironically, these risks and dangers are rarely experienced by middle class or poor people, because these risky activities require expensive equipment, machines or gear. 
+
+<span class="more"></span>
+
+For example, the following activities present increased dangers:
 
 * Driving sports/fast cars
 * Riding motorcycles
