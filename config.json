@@ -23,7 +23,7 @@
   "paginator": {
     "perPage": 10
   },
-  "output": "../azat-co/blog",
+  "output": "./dist",
   "baseUrl": "/blog"
 
 }
