@@ -7,7 +7,7 @@ template: article.jade
 
 ![San Francisco, CA](I_hate_this_city____sanfrancisco__sanfran__sf__california.jpg)
 
-I lived fro 5 years in the Bay Area which is San Francisco, Oakland, San Jose, and everything in between them (a.k.a. Silicon Valley). Before that I lived in Washington DC for 6 year.
+I lived for 5 years in the Bay Area which is San Francisco, Oakland, San Jose, and everything in between them (a.k.a. Silicon Valley). Before that I lived in Washington DC for 6 year.
 
 Don't confuse tourism with immigration if you've been in the Bay Area on a brief vacation and liked it. Despite what you've seen in movies, San Francisco and Silicon Valley are terrible places to live.
 
