@@ -1,5 +1,5 @@
 ---
-title: Paleo is Like Having Superpowers
+title: Paleo Superpowers
 author: azat
 date: 2014-07-16 11:00
 template: article.jade
