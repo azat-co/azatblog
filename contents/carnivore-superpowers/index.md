@@ -5,7 +5,7 @@ date: 2024-01-6 15:00
 template: article.jade
 ---
 
-![Lions resting](lions.jpg)
+![Lions resting](lions.jpeg)
 
 It's been ten years since my [paleo superpowers](https://azat.co/blog/paleo-superpowers/) post. And while paleo is good, carnivore is even better. It's like having double the amount of superpowers, including but not limited to the following:
 
